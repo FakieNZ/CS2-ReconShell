@@ -1,5 +1,6 @@
-# CS2-ReconShell
+![Logo Image](https://raw.githubusercontent.com/FakieNZ/CS2-ReconShell/refs/heads/main/ReconShell.png)
 
+# CS2-ReconShell
 A PowerShell RCON client for Counter-Strike 2 servers.
 
 ## Download
