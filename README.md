@@ -8,7 +8,7 @@ A PowerShell RCON client for Counter-Strike 2 servers.
 
 ## Setup
 
-Unblock the file after downloading:
+Open PowerShell in the folder you downloaded to and unblock the file:
 ```powershell
 Unblock-File -Path .\CS2-ReconShell.ps1
 ```
